@@ -12,6 +12,9 @@ Here are some photos of the original website of Kelly's Olympian:
 ![Photo of Kelly's Olympian Website](img/Kellys_olympian_top.png)
 ![Photo of Kelly's Olympian Website 2](img/Kellys_olympian_bottom.png)
 
+Here is our initial sketch of the redesign:
+![Photo of sketch](img/sketch.jpg)
+
 Here is our redesigned version:
 ![Photo of Redesigned Website](img/Homepage.png)
 
